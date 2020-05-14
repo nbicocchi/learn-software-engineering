@@ -1,7 +1,6 @@
 # Software Engineering (DIEF, UNIMORE) 
 
-This course deals with software design and implementation. The topics include requirements
-analisys and specification, UML, process models for software development and design patterns.
+This course deals with software engineering. In particular: process models (from waterfall to agile) software requirements specification, UML, and design patterns. 
 
 ## Slides, code examples
 The whole material, comprising slides and code examples, can be downloaded using git:
