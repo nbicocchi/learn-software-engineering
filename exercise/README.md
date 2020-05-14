@@ -27,7 +27,7 @@ Considerati i requisiti precedenti, un tirocinio può modificare il proprio sta
 ## Impresa edile
 Il sistema deve gestire gli operai, i cantieri, il parco mezzi e i clienti. Ad ogni cantiere è assegnata una squadra di almeno due operai ed eventuali mezzi.
 
-I clienti sottoscrivono un contratto che defisce le opera da svolgere in cantiere. Prima di avviare i lavori, entrambe le parti devono firmare la versione definitiva del contratto.
+I clienti sottoscrivono un contratto che definisce le opera da svolgere in cantiere. Prima di avviare i lavori, entrambe le parti devono firmare la versione definitiva del contratto.
 
 Ogni opera svolta in cantiere, va tracciata separatamente annotando l’operaio responsabile. Al termine dei lavori viene emesso un pagamento che contiene voci separate per ogni lavorazione.
 
