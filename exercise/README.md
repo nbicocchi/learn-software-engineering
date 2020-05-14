@@ -126,7 +126,7 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
  
 # Appendice 1 - IEEE830 SRS
 1. Introduzione
-   1. Obiettivo
+    1. Obiettivo
     1. Campo d’applicazione
     1. Definizioni, acronimi e abbreviazioni
     1. Fonti
@@ -139,9 +139,9 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
     1. Ipotesi di partenza, assunzioni e dipendenze
     1. Requisiti da analizzare in futuro
 1. Specifica dei requisiti
-  1. Requisiti dell’interfaccia esterna
-  1. Requisiti funzionali
-  1. Requisiti non funzionali
+    1. Requisiti dell’interfaccia esterna
+    1. Requisiti funzionali
+    1. Requisiti non funzionali
 
 Caratteristiche SRS
 
