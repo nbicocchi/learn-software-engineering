@@ -114,6 +114,9 @@ Ogni meccanico, di cui è indicata la specializzazione, è assegnato a uno e u
 Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove si svolge. Non viene disputata sempre necessariamente nello stesso autodromo e può essere disputata più volte in anni diversi, ma al massimo una volta sola nello stesso anno. A ciascuna gara possono partecipare più piloti dell’azienda e ciascuno guida uno dei motocicli della stessa azienda. Per ogni partecipazione a una gara deve essere memorizzata la posizione iniziale del pilota, il suo ordine d’arrivo ed eventuali problemi riscontrati durante la gara. La partecipazione di un pilota a una gara è ulteriormente documentata da un insieme di dati costituiti da articoli, interviste e fotografie.
  
 # Appendice 1 - IEEE830 SRS
+
+**Organizzazione interna SRS**
+
 1. Introduzione
     1. Obiettivo
     1. Campo d’applicazione
@@ -132,7 +135,7 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
     1. Requisiti funzionali
     1. Requisiti non funzionali
 
-Caratteristiche SRS
+**Caratteristiche SRS**
 
 * Corretto: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato. 
 
