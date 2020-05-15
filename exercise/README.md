@@ -60,10 +60,7 @@ L’ufficio acquisti, infine, genera ordini aggregati da inviare a diversi forni
 L’ufficio acquisti tiene traccia di tutti i fornitori ai quali si è rivolta specificando, per ognuno di essi, una serie di dati anagrafici. Inoltre, per ogni fornitore, l’azienda registra le categorie merceologiche (prese da un elenco predefinito) di sua competenza. In caso un fornitore cambi le proprie categorie, i cambiamenti vanno opportunamente storicizzati.
 
 ## Car sharing
-Il sistema informativo supporta una piafforma web di mobility-sharing peer-to-peer. Il principio su cui si basa il servizio consiste nel consentire ad ogni utente la possibilità di:
-
-* guadagnare rendendo un proprio veicolo disponibile ad essere utilizzato da altri utenti
-* utilizzare il veicolo di un altro utente pagando una quota di noleggio.
+Il sistema informativo supporta una piafforma web di mobility-sharing peer-to-peer. Il principio su cui si basa il servizio consiste nel consentire ad ogni utente la possibilità di: (a) guadagnare rendendo un proprio veicolo disponibile ad essere utilizzato da altri utenti, (b) utilizzare il veicolo di un altro utente pagando una quota di noleggio.
 
 Ogni utente è descritto da un insieme di dati anagrafici (nome, cognome, data e luogo di nascita, codice fiscale...) oltre che da una categoria (presa da un elenco predefinito) che ne esprime il livello di affidabilità.
 
