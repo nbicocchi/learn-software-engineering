@@ -138,20 +138,29 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
     1. Requisiti funzionali
     1. Requisiti non funzionali
 
-**Caratteristiche SRS**
+**Requisiti SRS**
 
-* Corretto: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato.
+*Requisiti funzionali*: sono i requisiti che descrivono ciò che il sistema deve fare. Essi costituiscono la ragione stessa per la quale il sistema viene sviluppato. Di seguito un esempio.
 
-* Non ambiguo: evita linguaggio ambiguo. Per ovviare all’ambiguità è necessario predisporre il dizionario dei dati, utilizzare il linguaggio di specifica e la notazione uniforme.
+![missing diagram](./diagrams/requisitoSRS.png)
 
-* Completo: comprende tutti i requisiti significativi, funzionali e non, espressi esplicitamente (dal cliente e/o dall’utente) oppure derivanti dalla natura stessa del sistema
+*Requisiti non funzionali*: esprimono le proprietà oppure le qualità che il sistema deve possedere. Non sono collegati direttamente con le funzioni implementate dal sistema, ma piuttosto alle modalità operative e di gestione. In sintesi, essi definiscono i vincoli sullo sviluppo del sistema (prestazioni, sicurezza, rete di comunicazione, database).
 
-* Consistente: Consistente si riferisce al documento stesso. Nessun requisito deve configgere con altri requisiti.
 
-* Ordinato per priorità dei requisiti: Ciascun requisito deve avere un identificatore (ad esempio, un numero intero) che ne esprime l’importanza. Tipicamente, non tutti i requisiti sono parimenti importanti; alcuni possono essere essenziali, altri invece desiderabili.
+**Proprietà SRS**
 
-* Verificabile: Un SRS è verificabile se, e soltanto se, lo sono tutti i requisiti specificati.Un requisito è verificato se esiste un procedimento (di costo compatibile) tramite il quale una persona o una macchina può stabilire se il software soddisfa il requisito.
+* *Corretto*: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato.
 
-* Modificabile: Una specifica è modificabile se consente di apportare i cambiamenti in modo facile, completo e consistente. Organizzazione – indice, riferimenti incrociati, Irridondanza – lo stesso requisito deve apparire in un solo posto, Indipendenza – ciascun requisito descrive, senza interferenze con altri requisiti, una caratteristica specifica.
+* *Non ambiguo*: evita linguaggio ambiguo. Per ovviare all’ambiguità è necessario predisporre il dizionario dei dati, utilizzare il linguaggio di specifica e la notazione uniforme.
 
-* Tracciabile: Un SRS è tracciabile se: è chiara l’origine di ogni requisito (tracciatura all’indietro, ai documenti precedenti), ogni requisito ha un nome o un numero (tracciatura in avanti per i requisiti futuri)
+* *Completo*: comprende tutti i requisiti significativi, funzionali e non, espressi esplicitamente (dal cliente e/o dall’utente) oppure derivanti dalla natura stessa del sistema
+
+* *Consistente*: Consistente si riferisce al documento stesso. Nessun requisito deve configgere con altri requisiti.
+
+* *Ordinato per priorità dei requisiti*: Ciascun requisito deve avere un identificatore (ad esempio, un numero intero) che ne esprime l’importanza. Tipicamente, non tutti i requisiti sono parimenti importanti; alcuni possono essere essenziali, altri invece desiderabili.
+
+* *Verificabile*: Un SRS è verificabile se, e soltanto se, lo sono tutti i requisiti specificati.Un requisito è verificato se esiste un procedimento (di costo compatibile) tramite il quale una persona o una macchina può stabilire se il software soddisfa il requisito.
+
+* *Modificabile*: Una specifica è modificabile se consente di apportare i cambiamenti in modo facile, completo e consistente. Organizzazione – indice, riferimenti incrociati, Irridondanza – lo stesso requisito deve apparire in un solo posto, Indipendenza – ciascun requisito descrive, senza interferenze con altri requisiti, una caratteristica specifica.
+
+* *Tracciabile*: Un SRS è tracciabile se: è chiara l’origine di ogni requisito (tracciatura all’indietro, ai documenti precedenti), ogni requisito ha un nome o un numero (tracciatura in avanti per i requisiti futuri)
