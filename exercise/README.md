@@ -5,6 +5,9 @@ Le sezioni seguenti tratteggiano il campo di applicazione e le macro funzionalit
 L’applicazione da sviluppare deve supportare un centro di assistenza. I clienti possono chiamare il centro di assistenza per segnalare un guasto, specificando l’apparecchiatura, il tipo di guasto, l’indirizzo, se l’apparecchiatura è in garanzia e ogni altra informazione che possa essere utile per l’intervento.
 Le chiamate vengono gestite automaticamente da un call center che attiva i tecnici. Il primo tecnico libero esegue l’intervento, portando con sé alcuni possibili pezzi di ricambio. Al termine dell’intervento, il tecnico deve rendicontarlo, specificando se il guasto è stato riparato, se necessita di altri pezzi di ricambio, e/o di un ulteriore intervento. Deve inoltre confermare se l’intervento era in garanzia.
 
+![alt text]("../diagrams/CentroAssistenza - UseCase.jpg")
+
+
 ## App Store
 Il sistema informativo richiesto va installato presso uno store di applicazioni. Gli autori di applicazioni possono sottomettere applicazioni, visualizzare lo stato della pratica (sottomessa, approvata, online), e controllare il numero dei download ed i profitti derivanti dalle vendite. Ogni mese, il sistema elabora un documento a fini fiscali e lo invia agli autori parallelamente all’eventuale bonifico. Gli utenti dello store possono visualizzare le applicazioni, scaricarle e fornire un rating.
 
@@ -137,7 +140,7 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
 
 **Caratteristiche SRS**
 
-* Corretto: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato. 
+* Corretto: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato.
 
 * Non ambiguo: evita linguaggio ambiguo. Per ovviare all’ambiguità è necessario predisporre il dizionario dei dati, utilizzare il linguaggio di specifica e la notazione uniforme.
 
