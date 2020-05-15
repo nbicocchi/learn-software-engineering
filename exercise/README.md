@@ -33,12 +33,17 @@ Ogni opera svolta in cantiere, va tracciata separatamente annotando l’operaio 
 
 Un contratto può modificare il proprio stato interno fra: proposto, accettato, in svolgimento, in attesa di materiali, pagato e interrotto per motivi esterni all’azienda. I cantieri interrotti da più di 2 anni vengono abbandonati. Un’interruzione può verificarsi solo durante l’effettivo svolgimento e rappresenta un processo reversibile.
 
-## Azienda di distribuzione
-Il sistema informativo supporta la logistica di una grande società di distribuzione. L’azienda è organizzata su tre livelli operativi:
+## Assicurazione
+L'assicurazione può assicurare sia persone fisiche sia società, delle une e delle altre serve conoscere i dati anagrafici. Ad ogni assicurato è attribuito un numero di codice e un giudizio di affidabilità preso da un elenco predefinito. Ogni assicurato può stipulare una polizza per la copertura di uno o più tipi di rischio, presi da un elenco predefinito.
 
-* l’ufficio acquisti centralizzato
-* alcune piattaforme logistiche
-* la rete dei negozi
+Il costo della polizza, o premio complessivo, può essere pagato in un’unica soluzione o in rate mensili. Sta all’assicurato scegliere fra queste due possibilità, il sistema informativo prende atto della scelta e registra i pagamenti man mano che avvengono con ammontare e data.
+
+Ogni volta che accade un sinistro che riguarda un assicurato occorre registrarne tutti i dati descrittivi, compreso l’ammontare del danno, ed eventualmente le foto di corredo. Il sistema informativo deve poi associare il sinistro a uno dei tipi di rischio.
+
+Gli stati attraverso cui passa il giudizio di affidabilità sono i seguenti: nuovo, fedele, ottimo, lento, costoso.
+
+## Azienda di distribuzione
+Il sistema informativo supporta la logistica di una grande società di distribuzione. L’azienda è organizzata su tre livelli operativi: (a) l’ufficio acquisti centralizzato, (b) alcune piattaforme logistiche, (c) la rete dei negozi.
 
 La gerarchia di distribuzione opera in modo bidirezionale: i negozi inviano le proprie richieste all’ufficio acquisti attraverso le piattaforme logistiche.
 
@@ -99,19 +104,6 @@ Il risultato del sopralluogo è una relazione nella quale sono elencati gli eve
 Ciascun problema può generare un ordine di intervento. L’ordine presenta una data di emissione, le date entro cui deve essere eseguito, le possibili ditte fra cui scegliere quella da incaricare, la descrizione dell’intervento da effettuare. Per ognuna delle ditte candidate è riportata la stima preventiva dei costi dell’intervento.
 
 Il manufatto è caratterizzato da uno stato che può prendere i valori: progettato, in costruzione, esistente, a rischio, abbandonato, ripristinato.
-
-## Assicurazione
-L'assicurazione può assicurare sia persone fisiche sia società, delle une e delle altre serve conoscere i dati anagrafici.
-
-Ad ogni assicurato è attribuito un numero di codice e un giudizio di affidabilità preso da un elenco predefinito.
-
-Ogni assicurato può stipulare una polizza per la copertura di uno o più tipi di rischio, presi da un elenco predefinito.
-
-Il costo della polizza, o premio complessivo, può essere pagato in un’unica soluzione o in rate mensili. Sta all’assicurato scegliere fra queste due possibilità, il sistema informativo prende atto della scelta e registra i pagamenti man mano che avvengono con ammontare e data.
-
-Ogni volta che accade un sinistro che riguarda un assicurato occorre registrarne tutti i dati descrittivi, compreso l’ammontare del danno, ed eventualmente le foto di corredo. Il sistema informativo deve poi associare il sinistro a uno dei tipi di rischio.
-
-Gli stati attraverso cui passa il giudizio di affidabilità sono i seguenti: nuovo, fedele, ottimo, lento, costoso.
 
 ## Azienda di motocicli
 L’azienda produce diversi tipi di motociclo, ciascuno descritto da codice, nome, descrizione e cilindrata. Per partecipare alle gare l’azienda utilizza alcuni precisi motocicli dei vari tipi, ciascuno caratterizzato dalla targa e dalla livrea scelta da un elenco predefinito.
