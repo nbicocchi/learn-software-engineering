@@ -5,7 +5,7 @@ Le sezioni seguenti tratteggiano il campo di applicazione e le macro funzionalit
 L’applicazione da sviluppare deve supportare un centro di assistenza. I clienti possono chiamare il centro di assistenza per segnalare un guasto, specificando l’apparecchiatura, il tipo di guasto, l’indirizzo, se l’apparecchiatura è in garanzia e ogni altra informazione che possa essere utile per l’intervento.
 Le chiamate vengono gestite automaticamente da un call center che attiva i tecnici. Il primo tecnico libero esegue l’intervento, portando con sé alcuni possibili pezzi di ricambio. Al termine dell’intervento, il tecnico deve rendicontarlo, specificando se il guasto è stato riparato, se necessita di altri pezzi di ricambio, e/o di un ulteriore intervento. Deve inoltre confermare se l’intervento era in garanzia.
 
-![alt text]("../diagrams/CentroAssistenza - UseCase.jpg")
+![missing diagram](./diagrams/centroassistenza-usecase.jpg)
 
 
 ## App Store
