@@ -134,11 +134,18 @@ Ogni gara è caratterizzata da denominazione, anno e autodromo abilitato dove s
 
 Caratteristiche SRS
 
-* Corretto
-* Non ambiguo
-* Completo
-* Consistente
-* Ordinato per priorità dei requisiti
-* Verificabile
-* Modificabile
-* Tracciabile
+* Corretto: un SRS è corretto se, e solo se, il sistema software soddisfa appieno ciascun requisito, funzionale o non, in esso riportato. 
+
+* Non ambiguo: evita linguaggio ambiguo. Per ovviare all’ambiguità è necessario predisporre il dizionario dei dati, utilizzare il linguaggio di specifica e la notazione uniforme.
+
+* Completo: comprende tutti i requisiti significativi, funzionali e non, espressi esplicitamente (dal cliente e/o dall’utente) oppure derivanti dalla natura stessa del sistema
+
+* Consistente: Consistente si riferisce al documento stesso. Nessun requisito deve configgere con altri requisiti.
+
+* Ordinato per priorità dei requisiti: Ciascun requisito deve avere un identificatore (ad esempio, un numero intero) che ne esprime l’importanza. Tipicamente, non tutti i requisiti sono parimenti importanti; alcuni possono essere essenziali, altri invece desiderabili.
+
+* Verificabile: Un SRS è verificabile se, e soltanto se, lo sono tutti i requisiti specificati.Un requisito è verificato se esiste un procedimento (di costo compatibile) tramite il quale una persona o una macchina può stabilire se il software soddisfa il requisito.
+
+* Modificabile: Una specifica è modificabile se consente di apportare i cambiamenti in modo facile, completo e consistente. Organizzazione – indice, riferimenti incrociati, Irridondanza – lo stesso requisito deve apparire in un solo posto, Indipendenza – ciascun requisito descrive, senza interferenze con altri requisiti, una caratteristica specifica.
+
+* Tracciabile: Un SRS è tracciabile se: è chiara l’origine di ogni requisito (tracciatura all’indietro, ai documenti precedenti), ogni requisito ha un nome o un numero (tracciatura in avanti per i requisiti futuri)
