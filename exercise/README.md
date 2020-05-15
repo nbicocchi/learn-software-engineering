@@ -6,7 +6,7 @@ L’applicazione da sviluppare deve supportare un centro di assistenza. I client
 Le chiamate vengono gestite automaticamente da un call center che attiva i tecnici. Il primo tecnico libero esegue l’intervento, portando con sé alcuni possibili pezzi di ricambio. Al termine dell’intervento, il tecnico deve rendicontarlo, specificando se il guasto è stato riparato, se necessita di altri pezzi di ricambio, e/o di un ulteriore intervento. Deve inoltre confermare se l’intervento era in garanzia.
 
 ![missing diagram](./diagrams/centroassistenza-usecase.jpg)
-
+![missing diagram](./diagrams/centroassistenza-class.jpg)
 
 ## App Store
 Il sistema informativo richiesto va installato presso uno store di applicazioni. Gli autori di applicazioni possono sottomettere applicazioni, visualizzare lo stato della pratica (sottomessa, approvata, online), e controllare il numero dei download ed i profitti derivanti dalle vendite. Ogni mese, il sistema elabora un documento a fini fiscali e lo invia agli autori parallelamente all’eventuale bonifico. Gli utenti dello store possono visualizzare le applicazioni, scaricarle e fornire un rating.
