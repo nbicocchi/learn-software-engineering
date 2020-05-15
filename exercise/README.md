@@ -11,6 +11,9 @@ Le chiamate vengono gestite automaticamente da un call center che attiva i tecni
 ## App Store
 Il sistema informativo richiesto va installato presso uno store di applicazioni. Gli autori di applicazioni possono sottomettere applicazioni, visualizzare lo stato della pratica (sottomessa, approvata, online), e controllare il numero dei download ed i profitti derivanti dalle vendite. Ogni mese, il sistema elabora un documento a fini fiscali e lo invia agli autori parallelamente all’eventuale bonifico. Gli utenti dello store possono visualizzare le applicazioni, scaricarle e fornire un rating.
 
+![missing diagram](./diagrams/AppStore!UseCaseDiagram1_2.jpg)
+![missing diagram](./diagrams/AppStore!ClassDiagram1_3.jpg)
+
 ## Caveau
 Il sistema informativo richiesto va installato presso un caveau dedicato a metalli preziosi. I clienti del caveau possono visualizzare un catalogo di prodotti acquistabili (barre, lingotti e monete), visualizzare i prodotti di loro proprietà in custodia presso il caveau, e autorizzare la vendita di prodotti. Il caso di vendita, il sistema provvede ad inviare istruzioni all’ufficio incaricato delle liquidazioni. Inoltre il sistema è collegato digitalmente ai sistemi di aziende produttrici di lingotti ed in base alle fluttuazioni del prezzo suggerisce al manager del caveau quando modificare il prezzo dei prodotti.
 
