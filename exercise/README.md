@@ -23,6 +23,9 @@ Il sistema deve gestire gli operai, i ponteggi, le auto da riparare, i pezzi di 
 ## Muffin
 Il sistema informativo gestisce la produzione di muffin in un impianto robotizzato. In particolare, gli utenti possono acquistare muffin personalizzati attraverso una app selezionando il numero (2, 4, 8), il tipo di impasto (bianco, nero), il tipo di guarnizione (panna, zucchero, cioccolato), e l'eventuale presenza di aromi. Gli aromi possono possono essere al massimo tre. Una volta ricevuto l’ordine, i muffin vengono preparati. Dopo la cottura, un robot si occupa della guarnizione a li posiziona all’interno di scatole da 2, 4 o 8 posti in base alla scelta dell’utente. Le scatole preparate vengono spedite attraverso il corriere più economico disponibile nell’area di consegna. Il sistema tiene inoltre traccia degli ordini effettuati dagli utenti e dei turni del personale necessario a supervisionare il processo di produzione.
 
+![missing diagram](./diagrams/MuffinCompany!UseCaseDiagram1_5.jpg)
+![missing diagram](./diagrams/MuffinCompany!ClassDiagram1_6.jpg)
+
 ## Gestione tirocini
 Le aziende interessate producono delle offerte di tirocinio. Il responsabile dei tirocini approva o rifiuta le offerte. I rifiuti sono notificati all’azienda proponente.
 
