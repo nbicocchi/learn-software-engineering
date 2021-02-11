@@ -39,7 +39,7 @@ This course deals with software engineering. In particular: process models (from
 
 [M2] Requirement specification
 * IEEE 830
-* ISO/IEC/STANDARD IEEE 29148
+* IEEE 29148
 
 [M3] Software design
 * UML Use Case Diagram
