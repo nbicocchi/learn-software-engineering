@@ -46,7 +46,7 @@ I clienti sottoscrivono un contratto che definisce le opera da svolgere in canti
 
 Ogni opera svolta in cantiere, va tracciata separatamente annotando l’operaio responsabile. Al termine dei lavori viene emesso un pagamento che contiene voci separate per ogni lavorazione.
 
-Un contratto può modificare il proprio stato interno fra: proposto, accettato, in svolgimento, in attesa di materiali, pagato e interrotto per motivi esterni all’azienda. I cantieri interrotti da più di 2 anni vengono abbandonati. Un’interruzione può verificarsi solo durante l’effettivo svolgimento e rappresenta un processo reversibile.
+Un contratto può modificare il proprio stato interno fra: proposto, accettato, in svolgimento, in attesa di materiali, pagato e interrotto per motivi esterni all’azienda. I contratti interrotti da più di 2 anni vengono abbandonati. Un’interruzione può verificarsi solo durante l’effettivo svolgimento e rappresenta un processo reversibile.
 
 ## Assicurazione
 L'assicurazione può assicurare sia persone fisiche sia società, delle une e delle altre serve conoscere i dati anagrafici. Ad ogni assicurato è attribuito un numero di codice e un giudizio di affidabilità preso da un elenco predefinito. Ogni assicurato può stipulare una polizza per la copertura di uno o più tipi di rischio, presi da un elenco predefinito.
