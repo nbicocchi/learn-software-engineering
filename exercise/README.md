@@ -37,6 +37,8 @@ Le offerte accettate diventano visibili agli studenti. Gli studenti visualizzano
 
 Considerati i requisiti precedenti, un tirocinio può modificare il proprio stato interno fra: proposto, accettato, accoppiato, in svolgimento, valutato e interrotto. Un’interruzione può verificarsi solo durante l’effettivo svolgimento e rappresenta un processo reversibile. In ogni stato, tratto quello valutato, il tirocinio può essere abbandonato.
 
+![missing diagram](./diagrams/Tirocini!ClassDiagram.jpg)
+
 ## Impresa edile
 Il sistema deve gestire gli operai, i cantieri, il parco mezzi e i clienti. Ad ogni cantiere è assegnata una squadra di almeno due operai ed eventuali mezzi.
 
