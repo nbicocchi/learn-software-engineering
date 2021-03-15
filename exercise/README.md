@@ -5,26 +5,30 @@ Le sezioni seguenti tratteggiano il campo di applicazione e le macro funzionalit
 L’applicazione da sviluppare deve supportare un centro di assistenza. I clienti possono chiamare il centro di assistenza per segnalare un guasto, specificando l’apparecchiatura, il tipo di guasto, l’indirizzo, se l’apparecchiatura è in garanzia e ogni altra informazione che possa essere utile per l’intervento.
 Le chiamate vengono gestite automaticamente da un call center che attiva i tecnici. Il primo tecnico libero esegue l’intervento, portando con sé alcuni possibili pezzi di ricambio. Al termine dell’intervento, il tecnico deve rendicontarlo, specificando se il guasto è stato riparato, se necessita di altri pezzi di ricambio, e/o di un ulteriore intervento. Deve inoltre confermare se l’intervento era in garanzia.
 
-![missing diagram](./diagrams/CentroAssistenza!UseCaseDiagram_0.jpg)
-![missing diagram](./diagrams/CentroAssistenza!ClassDiagram_1.jpg)
+![missing diagram](./diagrams/CentroAssistenza!UseCaseDiagram.jpg)
+![missing diagram](./diagrams/CentroAssistenza!ClassDiagram.jpg)
 
 ## App Store
 Il sistema informativo richiesto va installato presso uno store di applicazioni. Gli autori di applicazioni possono sottomettere applicazioni, visualizzare lo stato della pratica (sottomessa, approvata, online), e controllare il numero dei download ed i profitti derivanti dalle vendite. Ogni mese, il sistema elabora un documento a fini fiscali e lo invia agli autori parallelamente all’eventuale bonifico. Gli utenti dello store possono visualizzare le applicazioni, scaricarle e fornire un rating.
 
-![missing diagram](./diagrams/AppStore!UseCaseDiagram1_2.jpg)
-![missing diagram](./diagrams/AppStore!ClassDiagram1_3.jpg)
+![missing diagram](./diagrams/AppStore!UseCaseDiagram.jpg)
+![missing diagram](./diagrams/AppStore!ClassDiagram.jpg)
 
 ## Caveau
 Il sistema informativo richiesto va installato presso un caveau dedicato a metalli preziosi. I clienti del caveau possono visualizzare un catalogo di prodotti acquistabili (barre, lingotti e monete), visualizzare i prodotti di loro proprietà in custodia presso il caveau, e autorizzare la vendita di prodotti. In caso di vendita, il sistema provvede ad inviare istruzioni all’ufficio incaricato delle liquidazioni. Inoltre il sistema è collegato digitalmente ai sistemi di aziende produttrici di lingotti ed in base alle fluttuazioni del prezzo suggerisce al manager del caveau quando modificare il prezzo dei prodotti.
 
+![missing diagram](./diagrams/Caveau!ClassDiagram.jpg)
+
 ## Officina
 Il sistema deve gestire gli operai, i ponteggi, le auto da riparare, i pezzi di ricambio, ed i clienti. Prima di avviare i lavori i clienti sottoscrivono un contratto di riparazione con l’officina. Una riparazione si svolge in una specifica fascia oraria, su uno specifico ponteggio, da 1 o 2 operai. Ogni riparazione può richiedere più pezzi di ricambio (annotare prezzo e fornitore) di cui è necessario tenere traccia per il magazzino. Al termine della lavorazione il sistema genera una fattura digitale con i dati della riparazione e dell’anagrafica del cliente.
+
+![missing diagram](./diagrams/Officina!ClassDiagram.jpg)
 
 ## Muffin
 Il sistema informativo gestisce la produzione di muffin in un impianto robotizzato. In particolare, gli utenti possono acquistare muffin personalizzati attraverso una app selezionando il numero (2, 4, 8), il tipo di impasto (bianco, nero), il tipo di guarnizione (panna, zucchero, cioccolato), e l'eventuale presenza di aromi. Gli aromi possono possono essere al massimo tre. Una volta ricevuto l’ordine, i muffin vengono preparati. Dopo la cottura, un robot si occupa della guarnizione a li posiziona all’interno di scatole da 2, 4 o 8 posti in base alla scelta dell’utente. Le scatole preparate vengono spedite attraverso il corriere più economico disponibile nell’area di consegna. Il sistema tiene inoltre traccia degli ordini effettuati dagli utenti e dei turni del personale necessario a supervisionare il processo di produzione.
 
-![missing diagram](./diagrams/MuffinCompany!UseCaseDiagram1_5.jpg)
-![missing diagram](./diagrams/MuffinCompany!ClassDiagram1_6.jpg)
+![missing diagram](./diagrams/MuffinCompany!UseCaseDiagram.jpg)
+![missing diagram](./diagrams/MuffinCompany!ClassDiagram.jpg)
 
 ## Gestione tirocini
 Le aziende interessate producono delle offerte di tirocinio. Il responsabile dei tirocini approva o rifiuta le offerte. I rifiuti sono notificati all’azienda proponente.
