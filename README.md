@@ -1,7 +1,5 @@
 # Software Engineering (DIEF, UNIMORE) 
 
-This course deals with software engineering. In particular: process models (from waterfall to agile) software requirements specification, UML, and design patterns. 
-
 ## Software
 * [moqups](https://moqups.com/)
 * [StarUML](http://staruml.io/)
