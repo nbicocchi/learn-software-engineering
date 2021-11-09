@@ -3,7 +3,6 @@
 ## Software
 * [moqups](https://moqups.com/)
 * [StarUML](http://staruml.io/)
-* [Git distributed version control system](https://git-scm.com/)
 
 ## Books
 * Fowler - UML Distilled: A Brief Guide to the Standard Object Modeling Language
