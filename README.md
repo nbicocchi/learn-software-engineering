@@ -6,8 +6,9 @@
 
 ## Books
 * Fowler - UML Distilled: A Brief Guide to the Standard Object Modeling Language
+* Cecil - Clean Code: A Handbook of Agile Software Craftsmanship
+* Cecil - Clean Architecture: A Craftsman's Guide to Software Structure and Design
 * Freeman, Sierra - Head First Design Patterns
-* Kim, Spafford, Behr - The Phoenix Project
 
 ## Articles
 * [What Makes a Good Programmer?](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/)
