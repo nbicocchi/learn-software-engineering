@@ -1,15 +1,13 @@
 # Software Engineering (DIEF, UNIMORE) 
 
-This course deals with software engineering. In particular: process models (from waterfall to agile) software requirements specification, UML, and design patterns. 
-
 ## Software
 * [moqups](https://moqups.com/)
 * [StarUML](http://staruml.io/)
-* [Git distributed version control system](https://git-scm.com/)
 
 ## Books
 * Fowler - UML Distilled: A Brief Guide to the Standard Object Modeling Language
-* Clean Code: A Handbook of Agile Software Craftsmanship
+* Cecil - Clean Code: A Handbook of Agile Software Craftsmanship
+* Cecil - Clean Architecture: A Craftsman's Guide to Software Structure and Design
 * Freeman, Sierra - Head First Design Patterns
 
 ## Articles
@@ -28,19 +26,8 @@ This course deals with software engineering. In particular: process models (from
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/#why-not-how) 
 * [The Software Developer’s Library: A Treasure Trove of Books for People Who Love Code](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.8b83u6fks) 
 
-## Videos
-* [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
-* [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
-* [The S.O.L.I.D. Principles of OO & Agile Design - Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
-* [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
-* [Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
-* [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
-* [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
-* [CS50 Lecture by Mark Zuckerberg - 7 December 2005](https://www.youtube.com/watch?v=xFFs9UgOAlE)
-* [CHM Live | The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4)
-* [Software Testing Explained: How QA is Done Today](https://www.youtube.com/watch?v=oLc9gVM8FBM)
-
 ## Modules
+
 [M1] Software Development Models
 * Waterfall model
 * Iterative models
