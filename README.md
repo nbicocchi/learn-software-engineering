@@ -11,6 +11,7 @@
 * Freeman, Sierra - Head First Design Patterns
 
 ## Articles
+* [Why Most Unit Testing is Waste](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 * [What Makes a Good Programmer?](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/)
 * [Why Software Fails](https://spectrum.ieee.org/computing/software/why-software-fails)
 * [Designing something S.O.L.I.D](https://www.novoda.com/blog/designing-something-solid/) 
