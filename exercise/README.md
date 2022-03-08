@@ -1,5 +1,5 @@
 # Esercizi UML/SRS
-Le sezioni seguenti tratteggiano il campo di applicazione e le macro funzionalità di alcuni prodotti software. Per ogni software, è possibile allenare le proprie capacità di progettazione sviluppando un documento SRS (vedi Appendice 1), oppure diagrammi UML (casi d'uno e classi in tutti i casi; attività e stati dove possibile).
+Le sezioni seguenti tratteggiano il campo di applicazione e le macro funzionalità di alcuni prodotti software. Per ogni software, è possibile allenare le proprie capacità di progettazione sviluppando un documento SRS (vedi Appendice 1), oppure diagrammi UML (diagrammi dei casi d'uno e delle classi in tutti i casi; mentre diagrammi delle attività e degli stati dove possibile). Alcune soluzioni sono visibili all'interno del file uml.mdj, utilizzabile con StarUML.
 
 ## Centro di Assistenza
 L’applicazione da sviluppare deve supportare un centro di assistenza. I clienti possono chiamare il centro di assistenza per segnalare un guasto, specificando l’apparecchiatura, il tipo di guasto, l’indirizzo, se l’apparecchiatura è in garanzia e ogni altra informazione che possa essere utile per l’intervento.
